@@ -1,0 +1,19 @@
+dsu@dsu-OptiPlex-3050:~$ cd lara 
+dsu@dsu-OptiPlex-3050:~/lara$ ls
+a.out  tst.c
+dsu@dsu-OptiPlex-3050:~/lara$ gcc tst.c
+dsu@dsu-OptiPlex-3050:~/lara$ ./a.out 
+Hello, World!dsu@dsu-OptiPlex-3050:~/lara$ 
+why < and > used?
+why # is used in the beginnig?
+why "(" and ")" are used
+why { and } are used ?
+why there is a colour change in the text?
+why cant we use caps?
+why // is used in the beginnig?
+what is printf?
+why we have to end with ;
+why we have to leave space in the beginning bfore the text?
+why cant the computer take the normal language?
+why the main text is included in ( ) ?
+what is stdio?
