@@ -12,3 +12,29 @@ what is an object code?
 what is a compiler?
       It is a program which cnverts source code into object code.
       
+#include <stdio.h>
+int main(void)
+{
+   int integer1; 
+   int integer2; 
+   int sum; 
+   
+   printf("Enter first integer\n"); 
+   scanf("%d", &integer1 ); 
+   printf("Enter second integer\n"); 
+   scanf("%d", &integer2 ); 
+   
+   sum = integer1 + integer2; 
+   printf("Sum is %d\n", sum ); 
+   return 0 ;
+}
+
+Enter first integer                                                                                                            
+1  
+Enter second integer                                                                                                           
+2                                                                                                                              
+Sum is 3                                                                                                                       
+                                                                                                                               
+                                                                                                                               
+...Program finished with exit code 0                                                                                           
+Press ENTER to exit console.  
