@@ -1,8 +1,14 @@
 Fig 1.1 explains typical c development environment
 It takes place through 6 phases
-Program is created in the editor 
+Program is created in the editor
 Preprocessor process the code
 object code is created in the compiler
-object code is linked with the libraries in linker
+object code is linked with the system library by the linker and it stores it on disk by creating a file.
 loader stores the program in memory 
 CPU executes the program
+what is an object code? 
+      It is the output of the compiler after it processes the source code.
+      Source code is the computer program which is typed into the computer by a human in programming language.
+what is a compiler?
+      It is a program which cnverts source code into object code.
+      
