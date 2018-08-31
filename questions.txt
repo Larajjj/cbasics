@@ -4,5 +4,5 @@ Program is created in the editor
 Preprocessor process the code
 object code is created in the compiler
 object code is linked with the libraries in linker
-loader tranfers the program in memory 
+loader stores the program in memory 
 CPU executes the program
