@@ -1,0 +1,8 @@
+Fig 1.1 explains typical c development environment
+It takes place through 6 phases
+Program is created in the editor 
+Preprocessor process the code
+object code is created in the compiler
+object code is linked with the libraries in linker
+loader tranfers the program in memory 
+CPU executes the program
