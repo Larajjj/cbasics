@@ -16,7 +16,7 @@ why we have to end with ;
 why we have to leave space in the beginning bfore the text?
 why cant the computer take the normal language?
 why the main text is included in ( ) ?
-what is stdio?
+what is stdio? Standard input output. It has some pre defined functions int printf(), scanf() 
 what is function ? modules in c are functions
 what is main? main is a function
 I would like to compile and run a program
