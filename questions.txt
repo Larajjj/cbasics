@@ -11,7 +11,10 @@ what is an object code?
       Source code is the computer program which is typed into the computer by a human in programming language.
 what is a compiler?
       It is a program which cnverts source code into object code.
-      
+Difference between text files and c files.
+     A text files stores data in the form of alphabets, digits and other special symbols by storing their ASCII values and are in the human readable format. ( ASCII - American standard code for informaion interchange)
+     C file is a source code file for a c or c++ program. It may include an entire program's source code or may be one of many source files reference within a programming project.
+     
 #include <stdio.h>
 int main(void)
 {
