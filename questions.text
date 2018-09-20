@@ -5,19 +5,20 @@ dsu@dsu-OptiPlex-3050:~/lara$ gcc tst.c
 dsu@dsu-OptiPlex-3050:~/lara$ ./a.out 
 Hello, World!dsu@dsu-OptiPlex-3050:~/lara$ 
 why < and > used?
-why # is used in the beginnig?
-why "(" and ")" are used
+why # is used in the beginnig? it is from where the pre processor starts to read the code
+why (  and  )  are used ?
 why { and } are used ?
 why there is a colour change in the text?
 why cant we use caps?
 why // is used in the beginnig?
 what is printf? It is used to write set of characters into the file
-why we have to end with ;
+why do we have to end with ;
 why we have to leave space in the beginning bfore the text?
-why cant the computer take the normal language?
+why cant the computer take normal language?
 why the main text is included in ( ) ?
 what is stdio? Standard input output. It has some pre defined functions int printf(), scanf() 
 what is function ?the group of statements that together perform work and  modules in c are functions
 what is main? main is a function
-I would like to compile and run a program
-Is it necessary to type main in all the program?
+why is it necessary to type 'main' in all the program?
+why is scanf ? it is a function which reads data with specified format
+what is a program? a specific set of ordered operations for a computer to perform
