@@ -6,3 +6,6 @@ what is the function's name?
 what is return type?
      specifies the output of the function
 what are paramaters?
+     it is used to refer the variable
+Function declaration is required when you define a function in one source file and you call that function in another file.
+what is calling a function?
