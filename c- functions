@@ -11,4 +11,7 @@ what are paramaters?
      it is used to refer the variable.
 what is calling a function
      whan a function is defined in one source file and call that function in another file.
-     
+what is call by value?     
+     copies the actual value into the formal parameter
+what is call by reference?
+     copies the address of the arguement into formal parameter.
