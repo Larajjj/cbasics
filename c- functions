@@ -1,18 +1,29 @@
 A function declaration tells the compiler about a function's name, return type, and parameters.
-what is function declaration ?
-     it tells the compiler about function name and how to call a function
-what is a compiler?
-what is a function name?
-     actual name of the function
-what is a calling function?
-what are parameters
-     variables
- 
- 
- 
- what is return type ? example : int
- what is function name ? example : max
- what are parameters? example: a,b
- calling function  - main
- called function - max
- call by value - example  : a - int num1  b- int num2
+What is a function ?
+     Group of statements that together perform a task.
+What is function declaration ?
+     It tells the compiler about function name and how to call a function
+What is a function name? 
+     Actual name of the function
+What are parameters? 
+     Variables
+What is a calling function ? 
+     The point at which function is being called is called calling function
+What is called function?
+     The function which is being executed due to the function call 
+What is call by value ?
+     Copies the actual value of the arguement into formal parameter
+What is call by reference ?
+     Copies the address of the arguement into formal parameter
+What are local variables ?
+     They are declared inside a function and can be used only inside that function
+What are global variables ?
+     They are declared outside any function and can be accessed on any funtion inside the program
+     
+     
+What is return type ? example : int
+what is function name ? example : max
+what are parameters? example: a,b
+calling function  - main
+called function - max
+call by value - example  : a - int num1  b- int num2
