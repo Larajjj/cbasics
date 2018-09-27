@@ -23,7 +23,7 @@ What are global variables ?
      
 What is return type ? example : int
 what is function name ? example : max
-what are parameters? example: a,b
+what are parameters? example: num 1 and num 2
 calling function  - main
 called function - max
 call by value - example  : a - int num1  b- int num2
