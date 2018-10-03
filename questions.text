@@ -18,7 +18,8 @@ why cant the computer take normal language?
 why the main text is included in ( ) ?
 what is stdio? Standard input output. It has some pre defined functions int printf(), scanf() 
 what is function ?the group of statements that together perform work and  modules in c are functions
-what is main? main is a function starts to executes the program
+what is main? main is the parent function. It is from where the program execution begins.
 why is it necessary to type 'main' in all the program?
 why is scanf ? it is a function which reads data with specified format
 what is a program? a specific set of ordered operations for a computer to perform
+what is void main ? the function main does not return any value
