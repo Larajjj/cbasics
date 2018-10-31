@@ -5,8 +5,10 @@ What is function declaration ?
      It tells the compiler about function name and how to call a function
 What is a function name? 
      Actual name of the function
-What are parameters? 
+What are formal parameters? 
      Variables
+What are actual parameters?
+     Actual value passed
 What is a calling function ? 
      The point at which function is being called is called calling function
 What is called function?
@@ -23,7 +25,8 @@ What are global variables ?
      
 What is return type ? example : int
 what is function name ? example : max
-what are parameters? example: num 1 and num 2
+what are formal parameters? example: num 1 and num 2
+Actual parameters- a and b
 calling function  - main
 called function - max
 call by value - example  : a - int num1  b- int num2
