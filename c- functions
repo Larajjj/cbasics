@@ -1,6 +1,6 @@
 A function declaration tells the compiler about a function's name, return type, and parameters.
 What is a function ?
-     Group of statements that together perform a task.
+     Group of statements that together perform a specific task.
 What is function declaration ?
      It tells the compiler about function name and how to call a function
 What is a function name? 
